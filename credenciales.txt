@@ -1,0 +1,22 @@
+super user
+    user:   vaxidrez
+    email:  vaxi.drez.social@gmail.com
+    pass:   appDjango123$
+
+usuarios prueba
+
+    user:   test123
+    email:  test123@gmail.com
+    pass:   DjanMax234$
+
+    user:   juan.perez
+    email:  juan.perez@gmail.com
+    pass:   DjanMax234$
+
+    user:   mario.ramirez
+    email:  mario.ramirez@gmail.com
+    pass:   DjanMax234$
+
+    user:   hreinosoflores
+    email:  hreinosoflores@gmail.com
+    pass:   DjanMax234$
